@@ -20,6 +20,6 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/darkzitoxd)
 
 ## Projetos Recentes 
-
+- [Site de Vendas](https://github.com/Bnunes216/Site_Vendas)<br/>
 
 Amante da tecnologia e da programação, com sonho de ser Dev de Jogos Digitais.
