@@ -4,6 +4,7 @@
 
 ## Status do GitHub
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=Bnunes216&show_icons=true&theme=codeSTACKr)
+![Bruno GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Bnunes216&layout=compact&theme=codeSTACKr)
 <img alt="Status-Barrinha" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bnunes216&layout=compact&theme=codeSTACKr">
 
 ## Linguagens Conhecidas 
