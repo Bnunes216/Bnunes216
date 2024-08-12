@@ -55,7 +55,7 @@
   <a href="https://www.instagram.com/bruno_henrique216/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://mailto:brunohenriquenunes0@gmail.com?subject=Assunto%20do%20e-mail&body=Corpo%20da%20mensagem" target="_blank">
+  <a href="https://brunohenriquenunes0@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/bruno-henrique-589699246" target="_blank">
