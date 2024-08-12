@@ -6,9 +6,7 @@
 
 ###
 
-<div align="right">
-  <img height="200" src="https://i.pinimg.com/originals/7d/b3/d4/7db3d49ecd1ef524c749be4de6a99162.gif"  />
-</div>
+<img align="right" height="200" src="https://i.pinimg.com/originals/7d/b3/d4/7db3d49ecd1ef524c749be4de6a99162.gif"  />
 
 ###
 
@@ -21,7 +19,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bnunes216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bnunes216&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bnunes216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bnunes216&radius=16&theme=elegant&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
