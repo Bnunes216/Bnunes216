@@ -2,6 +2,20 @@
 
 ###
 
+<h3 align="left">Sobre Mim</h3>
+
+###
+
+<div align="right">
+  <img height="200" src="https://i.pinimg.com/originals/7d/b3/d4/7db3d49ecd1ef524c749be4de6a99162.gif"  />
+</div>
+
+###
+
+<p align="left">°  🏢 UNA<br>° 🎓 Cursando 4° semestre de Ciência da Computação<br>° 💼 Estagiando de HelpDesk  - Transcon<br>° ⭐ Sonho de ser Dev de Jogos Digitais</p>
+
+###
+
 <h2 align="left">Stats</h2>
 
 ###
