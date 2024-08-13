@@ -27,7 +27,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Bnunes216/Bnunes216/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Bnunes216/Bnunes216/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
