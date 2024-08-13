@@ -70,6 +70,7 @@
 ###
 
 <p align="left">Alguns projetos e praticas que ando desenvolvendo: </p>
+
 [Pratica-Site](https://github.com/Bnunes216/Site_Vendas)<br/>
 [Pratica-Portifolio](https://github.com/Bnunes216/Pratica_Portifolio)<br/>
 
