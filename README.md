@@ -27,10 +27,6 @@
 
 ###
 
-![snake gif](https://github.com/Bnunes216/Bnunes216/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <h2 align="left">Languages</h2>
 
 ###
