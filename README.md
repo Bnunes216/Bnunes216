@@ -9,7 +9,6 @@
 <p align="left">
   °  🏢 UNA<br>
   ° 🎓 Cursando 4° semestre de Ciência da Computação<br>
-  ° 💼 Estagiando de HelpDesk  - Transcon<br>
   ° ⭐ Sonho de ser Dev de Jogos Digitais
 </p>
 
