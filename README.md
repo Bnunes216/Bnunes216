@@ -8,7 +8,7 @@
 
 <p align="left">
   °  🏢 UNA<br>
-  ° 🎓 Cursando 4° semestre de Ciência da Computação<br>
+  ° 🎓 Cursando 5° semestre de Ciência da Computação<br>
   ° ⭐ Sonho de ser Dev de Jogos Digitais
 </p>
 
