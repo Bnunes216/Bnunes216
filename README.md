@@ -1,17 +1,17 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome&fontSize=40&fontAlign=50&fontAlignY=36)
 
-[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+)](https://git.io/typing-svg)
+[[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+)
 
 ###
 
-<h3 align="left">Sobre Mim</h3>
+<h2 align="left">About Me</h2>
 
 ###
 
 <p align="left">
   °  🏢 UNA<br>
-  ° 🎓 Cursando 6° semestre de Ciência da Computação<br>
-  ° ⭐ Sonho de ser Dev de Jogos Digitais
+  ° 🎓 Studying 6th semester of Computer Science<br>
+  ° ⭐ Dream of being a Digital Game Dev
 </p>
 
 ###
@@ -40,9 +40,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
-
-<p align="center">Amante da tecnologia e da programação, com sonho de ser Dev de Jogos Digitais.</p>
-
-###
