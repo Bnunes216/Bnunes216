@@ -44,3 +44,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontSize=40&fontAlign=50&fontAlignY=36&section=footer)
