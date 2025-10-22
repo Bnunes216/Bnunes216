@@ -59,16 +59,6 @@
 
 ###
 
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">Alguns projetos e praticas que ando desenvolvendo: </p>
-
-[Site-Star-Wars](https://github.com/Bnunes216/Blog-Star_Wars)<br/>
-
-###
-
 <p align="left">Amante da tecnologia e da programação, com sonho de ser Dev de Jogos Digitais.</p>
 
 ###
