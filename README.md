@@ -2,7 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+" alt="Typing SVG"/>
+    <picture>
+      <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+">
+      <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=000000&center=true&repeat=false&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+">
+      <img 
+        src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=000000&center=true&repeat=false&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+" 
+        alt="Typing SVG"/>
+    </picture>
   </a>
 </p>
 
