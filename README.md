@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome&fontSize=40&fontAlign=50&fontAlignY=36)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Bruno+Nunes;I+am+from+Belo+Horizonte%2C+Brazil;I+work+as+a+Software+Developer+)](https://git.io/typing-svg)
+
 <h2 align="left">Olá! Eu sou o Bruno Henrique ✌🏻👋🏻</h2>
 
 ###
