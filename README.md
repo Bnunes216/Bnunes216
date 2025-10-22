@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Welcome&fontSize=40&fontAlign=50&fontAlignY=36)
 
 <h2 align="left">Olá! Eu sou o Bruno Henrique ✌🏻👋🏻</h2>
 
